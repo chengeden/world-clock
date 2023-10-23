@@ -13,7 +13,7 @@ function App() {
 	return (
 		<ClockGroup>
 			<Clock city={"Sydney"} timezone={11} />
-			<Clock city={"China"} timezone={8} />
+			<Clock city={"Beijing"} timezone={8} />
 			<Clock city={"London"} timezone={1} />
 			<Clock city={"New York"} timezone={-4} />
 		</ClockGroup>

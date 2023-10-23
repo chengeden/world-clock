@@ -1,8 +1,6 @@
-# React + Vite
+#### World-clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Build a world clock website using React, React Hooks and styled-components.
+- Shown the time of four cities in different tine zones.
+- Shown white clock background between 6:00 and 19:00, otherwise ut is black clock background.
+- Hosted on Github Page - **https://chengeden.github.io/world-clock/**
